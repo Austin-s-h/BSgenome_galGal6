@@ -5,7 +5,7 @@
 \alias{BSgenome.Ggallus.ENSEMBL.galGal6}
 \alias{Ggallus}
 
-\title{Full genome sequences for Gallus gallus (ENSEMBL version galGal6 release 103)}
+\title{Full genome sequences for Gallus gallus (ENSEMBL version galGal6 release 106)}
 
 \description{
   A custom-forged BSgenome for galGal6, used in 'chromVAR'.
