@@ -3,3 +3,5 @@
 .RData
 .Ruserdata
 .2bit
+*.tar.gz
+BSgenome.Ggallus*
